@@ -12,7 +12,7 @@
 - yfinance, FRED, Prophet 통합 예측
 - 기술적 시그널 자동 해석 (RSI, VWAP, MACD 등)
 - 모바일 대응 UI 실험 중  
-👉 [프로젝트 보기]([https://github.com/ddkerty/stock-analysis](https://github.com/ddkerty/stock_analysis_stream))
+👉 [프로젝트 보기]([https://github.com/ddkerty/stock-analysis](https://github.com/ddkerty/stock_analysis_stream)
 
 ---
 

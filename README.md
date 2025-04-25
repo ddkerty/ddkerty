@@ -26,5 +26,5 @@
 ---
 
 📬 **Contact & Blog**  
-- Blog: https://technut.tistory.com/manage  
+- Blog: https://technut.tistory.com
 - Email: phj8507@gamil.com

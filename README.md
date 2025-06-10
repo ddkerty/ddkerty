@@ -5,3 +5,4 @@
 
 📬 **Contact & Blog**  
 - Email: phj8507@gamil.com
+- blog: https://technut.tistory.com/
